@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/logo.png" alt="Logo FrioSur" width="320" />
+  <img src="img/logo.png" alt="Logo FrioSur" width="420" />
   <h1>FrioSur - Servicio Técnico Web</h1>
   
   <p>
