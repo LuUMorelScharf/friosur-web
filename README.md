@@ -35,7 +35,7 @@ Este proyecto es el sitio web oficial de **FrioSur**, diseñado para ofrecer ser
 ## 🚀 Link al Proyecto
 
 Podés visitar la web funcionando aquí:
-👉 **[https://luumorelscharf.github.io/friosur-web/](https://luumorelscharf.github.io/friosur-web/)**
+👉 **[https://luumorelscharf.github.io/friosur-web/]([(https:/friosur-web.netlify.app/))**
 
 ---
 <div align="center">
