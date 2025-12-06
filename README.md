@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/logo.png" alt="Logo FrioSur" width="120" />
+  <img src="img/logo.png" alt="Logo FrioSur" width="320" />
   <h1>FrioSur - Servicio Técnico Web</h1>
   
   <p>
@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    <a href="https://luumorelscharf.github.io/friosur-web/">
+    <a href="https://friosur-web.netlify.app/">
       <img src="https://img.shields.io/badge/Ver_Demo_Online-000000?style=for-the-badge&logo=github&logoColor=white" alt="Demo Online" />
     </a>
   </p>
@@ -35,7 +35,7 @@ Este proyecto es el sitio web oficial de **FrioSur**, diseñado para ofrecer ser
 ## 🚀 Link al Proyecto
 
 Podés visitar la web funcionando aquí:
-👉 **[https://luumorelscharf.github.io/friosur-web/]([(https:/friosur-web.netlify.app/))**
+👉 **[https://friosur-web.netlify.app/](https://friosur-web.netlify.app/)**
 
 ---
 <div align="center">
